@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1739731932,,"wq"
+|2,0,1739735789,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,32 +25,68 @@
 # Registers:
 
 # File marks:
-'0  9466  0  ~/flaskapp/templates/profile.html
-|4,48,9466,0,1739732093,"~/flaskapp/templates/profile.html"
-'1  77  6  ~/flaskapp/templates/profile.html
-|4,49,77,6,1739731932,"~/flaskapp/templates/profile.html"
-'2  123  6  ~/flaskapp/templates/register.html
-|4,50,123,6,1739731639,"~/flaskapp/templates/register.html"
-'3  1  3636  ~/flaskapp/templates/profile.html
-|4,51,1,3636,1739731445,"~/flaskapp/templates/profile.html"
-'4  1  3636  ~/flaskapp/templates/profile.html
-|4,52,1,3636,1739731445,"~/flaskapp/templates/profile.html"
-'5  123  6  ~/flaskapp/templates/profile.html
-|4,53,123,6,1739731445,"~/flaskapp/templates/profile.html"
-'6  95  10  ~/flaskapp/flaskapp.py
-|4,54,95,10,1739731362,"~/flaskapp/flaskapp.py"
-'7  99  10  ~/flaskapp/flaskapp.py
-|4,55,99,10,1739731350,"~/flaskapp/flaskapp.py"
-'8  99  10  ~/flaskapp/flaskapp.py
-|4,56,99,10,1739731350,"~/flaskapp/flaskapp.py"
-'9  1  0  ~/flaskapp.py
-|4,57,1,0,1739731001,"~/flaskapp.py"
+'0  141  6  ~/flaskapp/templates/register.html
+|4,48,141,6,1739735789,"~/flaskapp/templates/register.html"
+'1  116  6  ~/flaskapp/templates/profile.html
+|4,49,116,6,1739735618,"~/flaskapp/templates/profile.html"
+'2  9505  0  ~/flaskapp/templates/profile.html
+|4,50,9505,0,1739732093,"~/flaskapp/templates/profile.html"
+'3  9466  0  ~/flaskapp/templates/profile.html
+|4,51,9466,0,1739732093,"~/flaskapp/templates/profile.html"
+'4  1  1973  ~/flaskapp/templates/profile.html
+|4,52,1,1973,1739731932,"~/flaskapp/templates/profile.html"
+'5  77  6  ~/flaskapp/templates/profile.html
+|4,53,77,6,1739731932,"~/flaskapp/templates/profile.html"
+'6  1  3636  ~/flaskapp/templates/register.html
+|4,54,1,3636,1739731639,"~/flaskapp/templates/register.html"
+'7  123  6  ~/flaskapp/templates/register.html
+|4,55,123,6,1739731639,"~/flaskapp/templates/register.html"
+'8  1  3636  ~/flaskapp/templates/profile.html
+|4,56,1,3636,1739731445,"~/flaskapp/templates/profile.html"
+'9  1  3636  ~/flaskapp/templates/profile.html
+|4,57,1,3636,1739731445,"~/flaskapp/templates/profile.html"
 
 # Jumplist (newest first):
+-'  141  6  ~/flaskapp/templates/register.html
+|4,39,141,6,1739735789,"~/flaskapp/templates/register.html"
+-'  1  3636  ~/flaskapp/templates/register.html
+|4,39,1,3636,1739735630,"~/flaskapp/templates/register.html"
+-'  116  6  ~/flaskapp/templates/profile.html
+|4,39,116,6,1739735618,"~/flaskapp/templates/profile.html"
+-'  116  6  ~/flaskapp/templates/profile.html
+|4,39,116,6,1739735618,"~/flaskapp/templates/profile.html"
+-'  1  0  ~/flaskapp/templates/profile.html
+|4,39,1,0,1739735467,"~/flaskapp/templates/profile.html"
+-'  1  0  ~/flaskapp/templates/profile.html
+|4,39,1,0,1739735467,"~/flaskapp/templates/profile.html"
+-'  9505  0  ~/flaskapp/templates/profile.html
+|4,39,9505,0,1739732093,"~/flaskapp/templates/profile.html"
+-'  9499  27  ~/flaskapp/templates/profile.html
+|4,39,9499,27,1739732093,"~/flaskapp/templates/profile.html"
 -'  9466  0  ~/flaskapp/templates/profile.html
 |4,39,9466,0,1739732093,"~/flaskapp/templates/profile.html"
 -'  9460  27  ~/flaskapp/templates/profile.html
 |4,39,9460,27,1739732093,"~/flaskapp/templates/profile.html"
+-'  9505  0  ~/flaskapp/templates/profile.html
+|4,39,9505,0,1739732093,"~/flaskapp/templates/profile.html"
+-'  9499  27  ~/flaskapp/templates/profile.html
+|4,39,9499,27,1739732093,"~/flaskapp/templates/profile.html"
+-'  9466  0  ~/flaskapp/templates/profile.html
+|4,39,9466,0,1739732093,"~/flaskapp/templates/profile.html"
+-'  9460  27  ~/flaskapp/templates/profile.html
+|4,39,9460,27,1739732093,"~/flaskapp/templates/profile.html"
+-'  9495  24  ~/flaskapp/templates/profile.html
+|4,39,9495,24,1739732092,"~/flaskapp/templates/profile.html"
+-'  9490  25  ~/flaskapp/templates/profile.html
+|4,39,9490,25,1739732092,"~/flaskapp/templates/profile.html"
+-'  9486  28  ~/flaskapp/templates/profile.html
+|4,39,9486,28,1739732092,"~/flaskapp/templates/profile.html"
+-'  9477  23  ~/flaskapp/templates/profile.html
+|4,39,9477,23,1739732092,"~/flaskapp/templates/profile.html"
+-'  9473  25  ~/flaskapp/templates/profile.html
+|4,39,9473,25,1739732092,"~/flaskapp/templates/profile.html"
+-'  9467  25  ~/flaskapp/templates/profile.html
+|4,39,9467,25,1739732092,"~/flaskapp/templates/profile.html"
 -'  9456  24  ~/flaskapp/templates/profile.html
 |4,39,9456,24,1739732092,"~/flaskapp/templates/profile.html"
 -'  9451  25  ~/flaskapp/templates/profile.html
@@ -63,6 +99,40 @@
 |4,39,9434,25,1739732092,"~/flaskapp/templates/profile.html"
 -'  9428  25  ~/flaskapp/templates/profile.html
 |4,39,9428,25,1739732092,"~/flaskapp/templates/profile.html"
+-'  9495  24  ~/flaskapp/templates/profile.html
+|4,39,9495,24,1739732092,"~/flaskapp/templates/profile.html"
+-'  9490  25  ~/flaskapp/templates/profile.html
+|4,39,9490,25,1739732092,"~/flaskapp/templates/profile.html"
+-'  9486  28  ~/flaskapp/templates/profile.html
+|4,39,9486,28,1739732092,"~/flaskapp/templates/profile.html"
+-'  9477  23  ~/flaskapp/templates/profile.html
+|4,39,9477,23,1739732092,"~/flaskapp/templates/profile.html"
+-'  9473  25  ~/flaskapp/templates/profile.html
+|4,39,9473,25,1739732092,"~/flaskapp/templates/profile.html"
+-'  9467  25  ~/flaskapp/templates/profile.html
+|4,39,9467,25,1739732092,"~/flaskapp/templates/profile.html"
+-'  9456  24  ~/flaskapp/templates/profile.html
+|4,39,9456,24,1739732092,"~/flaskapp/templates/profile.html"
+-'  9451  25  ~/flaskapp/templates/profile.html
+|4,39,9451,25,1739732092,"~/flaskapp/templates/profile.html"
+-'  9447  28  ~/flaskapp/templates/profile.html
+|4,39,9447,28,1739732092,"~/flaskapp/templates/profile.html"
+-'  9438  23  ~/flaskapp/templates/profile.html
+|4,39,9438,23,1739732092,"~/flaskapp/templates/profile.html"
+-'  9434  25  ~/flaskapp/templates/profile.html
+|4,39,9434,25,1739732092,"~/flaskapp/templates/profile.html"
+-'  9428  25  ~/flaskapp/templates/profile.html
+|4,39,9428,25,1739732092,"~/flaskapp/templates/profile.html"
+-'  9458  20  ~/flaskapp/templates/profile.html
+|4,39,9458,20,1739732091,"~/flaskapp/templates/profile.html"
+-'  9454  23  ~/flaskapp/templates/profile.html
+|4,39,9454,23,1739732091,"~/flaskapp/templates/profile.html"
+-'  9446  21  ~/flaskapp/templates/profile.html
+|4,39,9446,21,1739732091,"~/flaskapp/templates/profile.html"
+-'  9441  28  ~/flaskapp/templates/profile.html
+|4,39,9441,28,1739732091,"~/flaskapp/templates/profile.html"
+-'  9431  17  ~/flaskapp/templates/profile.html
+|4,39,9431,17,1739732091,"~/flaskapp/templates/profile.html"
 -'  9419  20  ~/flaskapp/templates/profile.html
 |4,39,9419,20,1739732091,"~/flaskapp/templates/profile.html"
 -'  9415  23  ~/flaskapp/templates/profile.html
@@ -73,12 +143,62 @@
 |4,39,9402,28,1739732091,"~/flaskapp/templates/profile.html"
 -'  9392  17  ~/flaskapp/templates/profile.html
 |4,39,9392,17,1739732091,"~/flaskapp/templates/profile.html"
+-'  9458  20  ~/flaskapp/templates/profile.html
+|4,39,9458,20,1739732091,"~/flaskapp/templates/profile.html"
+-'  9454  23  ~/flaskapp/templates/profile.html
+|4,39,9454,23,1739732091,"~/flaskapp/templates/profile.html"
+-'  9446  21  ~/flaskapp/templates/profile.html
+|4,39,9446,21,1739732091,"~/flaskapp/templates/profile.html"
+-'  9441  28  ~/flaskapp/templates/profile.html
+|4,39,9441,28,1739732091,"~/flaskapp/templates/profile.html"
+-'  9431  17  ~/flaskapp/templates/profile.html
+|4,39,9431,17,1739732091,"~/flaskapp/templates/profile.html"
+-'  9419  20  ~/flaskapp/templates/profile.html
+|4,39,9419,20,1739732091,"~/flaskapp/templates/profile.html"
+-'  9415  23  ~/flaskapp/templates/profile.html
+|4,39,9415,23,1739732091,"~/flaskapp/templates/profile.html"
+-'  9407  21  ~/flaskapp/templates/profile.html
+|4,39,9407,21,1739732091,"~/flaskapp/templates/profile.html"
+-'  9402  28  ~/flaskapp/templates/profile.html
+|4,39,9402,28,1739732091,"~/flaskapp/templates/profile.html"
+-'  9392  17  ~/flaskapp/templates/profile.html
+|4,39,9392,17,1739732091,"~/flaskapp/templates/profile.html"
+-'  9424  22  ~/flaskapp/templates/profile.html
+|4,39,9424,22,1739732090,"~/flaskapp/templates/profile.html"
 -'  9385  22  ~/flaskapp/templates/profile.html
 |4,39,9385,22,1739732090,"~/flaskapp/templates/profile.html"
+-'  9424  22  ~/flaskapp/templates/profile.html
+|4,39,9424,22,1739732090,"~/flaskapp/templates/profile.html"
+-'  9385  22  ~/flaskapp/templates/profile.html
+|4,39,9385,22,1739732090,"~/flaskapp/templates/profile.html"
+-'  9409  851  ~/flaskapp/templates/profile.html
+|4,39,9409,851,1739732088,"~/flaskapp/templates/profile.html"
+-'  9404  25  ~/flaskapp/templates/profile.html
+|4,39,9404,25,1739732088,"~/flaskapp/templates/profile.html"
 -'  9370  851  ~/flaskapp/templates/profile.html
 |4,39,9370,851,1739732088,"~/flaskapp/templates/profile.html"
 -'  9365  25  ~/flaskapp/templates/profile.html
 |4,39,9365,25,1739732088,"~/flaskapp/templates/profile.html"
+-'  9409  851  ~/flaskapp/templates/profile.html
+|4,39,9409,851,1739732088,"~/flaskapp/templates/profile.html"
+-'  9404  25  ~/flaskapp/templates/profile.html
+|4,39,9404,25,1739732088,"~/flaskapp/templates/profile.html"
+-'  9370  851  ~/flaskapp/templates/profile.html
+|4,39,9370,851,1739732088,"~/flaskapp/templates/profile.html"
+-'  9365  25  ~/flaskapp/templates/profile.html
+|4,39,9365,25,1739732088,"~/flaskapp/templates/profile.html"
+-'  9395  20  ~/flaskapp/templates/profile.html
+|4,39,9395,20,1739732087,"~/flaskapp/templates/profile.html"
+-'  9391  23  ~/flaskapp/templates/profile.html
+|4,39,9391,23,1739732087,"~/flaskapp/templates/profile.html"
+-'  9383  21  ~/flaskapp/templates/profile.html
+|4,39,9383,21,1739732087,"~/flaskapp/templates/profile.html"
+-'  9378  28  ~/flaskapp/templates/profile.html
+|4,39,9378,28,1739732087,"~/flaskapp/templates/profile.html"
+-'  9368  17  ~/flaskapp/templates/profile.html
+|4,39,9368,17,1739732087,"~/flaskapp/templates/profile.html"
+-'  9361  22  ~/flaskapp/templates/profile.html
+|4,39,9361,22,1739732087,"~/flaskapp/templates/profile.html"
 -'  9356  20  ~/flaskapp/templates/profile.html
 |4,39,9356,20,1739732087,"~/flaskapp/templates/profile.html"
 -'  9352  23  ~/flaskapp/templates/profile.html
@@ -91,184 +211,71 @@
 |4,39,9329,17,1739732087,"~/flaskapp/templates/profile.html"
 -'  9322  22  ~/flaskapp/templates/profile.html
 |4,39,9322,22,1739732087,"~/flaskapp/templates/profile.html"
+-'  9395  20  ~/flaskapp/templates/profile.html
+|4,39,9395,20,1739732087,"~/flaskapp/templates/profile.html"
+-'  9391  23  ~/flaskapp/templates/profile.html
+|4,39,9391,23,1739732087,"~/flaskapp/templates/profile.html"
+-'  9383  21  ~/flaskapp/templates/profile.html
+|4,39,9383,21,1739732087,"~/flaskapp/templates/profile.html"
+-'  9378  28  ~/flaskapp/templates/profile.html
+|4,39,9378,28,1739732087,"~/flaskapp/templates/profile.html"
+-'  9368  17  ~/flaskapp/templates/profile.html
+|4,39,9368,17,1739732087,"~/flaskapp/templates/profile.html"
+-'  9361  22  ~/flaskapp/templates/profile.html
+|4,39,9361,22,1739732087,"~/flaskapp/templates/profile.html"
+-'  9356  20  ~/flaskapp/templates/profile.html
+|4,39,9356,20,1739732087,"~/flaskapp/templates/profile.html"
+-'  9352  23  ~/flaskapp/templates/profile.html
+|4,39,9352,23,1739732087,"~/flaskapp/templates/profile.html"
+-'  9344  21  ~/flaskapp/templates/profile.html
+|4,39,9344,21,1739732087,"~/flaskapp/templates/profile.html"
+-'  9339  28  ~/flaskapp/templates/profile.html
+|4,39,9339,28,1739732087,"~/flaskapp/templates/profile.html"
+-'  9329  17  ~/flaskapp/templates/profile.html
+|4,39,9329,17,1739732087,"~/flaskapp/templates/profile.html"
+-'  9322  22  ~/flaskapp/templates/profile.html
+|4,39,9322,22,1739732087,"~/flaskapp/templates/profile.html"
+-'  9346  851  ~/flaskapp/templates/profile.html
+|4,39,9346,851,1739732085,"~/flaskapp/templates/profile.html"
 -'  9307  851  ~/flaskapp/templates/profile.html
 |4,39,9307,851,1739732085,"~/flaskapp/templates/profile.html"
+-'  9346  851  ~/flaskapp/templates/profile.html
+|4,39,9346,851,1739732085,"~/flaskapp/templates/profile.html"
+-'  9307  851  ~/flaskapp/templates/profile.html
+|4,39,9307,851,1739732085,"~/flaskapp/templates/profile.html"
+-'  9341  25  ~/flaskapp/templates/profile.html
+|4,39,9341,25,1739732084,"~/flaskapp/templates/profile.html"
 -'  9302  25  ~/flaskapp/templates/profile.html
 |4,39,9302,25,1739732084,"~/flaskapp/templates/profile.html"
--'  9293  20  ~/flaskapp/templates/profile.html
-|4,39,9293,20,1739732083,"~/flaskapp/templates/profile.html"
--'  9289  23  ~/flaskapp/templates/profile.html
-|4,39,9289,23,1739732083,"~/flaskapp/templates/profile.html"
--'  9281  21  ~/flaskapp/templates/profile.html
-|4,39,9281,21,1739732083,"~/flaskapp/templates/profile.html"
--'  9276  28  ~/flaskapp/templates/profile.html
-|4,39,9276,28,1739732083,"~/flaskapp/templates/profile.html"
--'  9266  17  ~/flaskapp/templates/profile.html
-|4,39,9266,17,1739732083,"~/flaskapp/templates/profile.html"
--'  9259  22  ~/flaskapp/templates/profile.html
-|4,39,9259,22,1739732083,"~/flaskapp/templates/profile.html"
--'  9244  851  ~/flaskapp/templates/profile.html
-|4,39,9244,851,1739732081,"~/flaskapp/templates/profile.html"
--'  9239  25  ~/flaskapp/templates/profile.html
-|4,39,9239,25,1739732080,"~/flaskapp/templates/profile.html"
--'  9230  20  ~/flaskapp/templates/profile.html
-|4,39,9230,20,1739732080,"~/flaskapp/templates/profile.html"
--'  9226  23  ~/flaskapp/templates/profile.html
-|4,39,9226,23,1739732080,"~/flaskapp/templates/profile.html"
--'  9218  21  ~/flaskapp/templates/profile.html
-|4,39,9218,21,1739732079,"~/flaskapp/templates/profile.html"
--'  9213  28  ~/flaskapp/templates/profile.html
-|4,39,9213,28,1739732079,"~/flaskapp/templates/profile.html"
--'  9203  17  ~/flaskapp/templates/profile.html
-|4,39,9203,17,1739732079,"~/flaskapp/templates/profile.html"
--'  9196  22  ~/flaskapp/templates/profile.html
-|4,39,9196,22,1739732079,"~/flaskapp/templates/profile.html"
--'  9181  851  ~/flaskapp/templates/profile.html
-|4,39,9181,851,1739732077,"~/flaskapp/templates/profile.html"
--'  77  6  ~/flaskapp/templates/profile.html
-|4,39,77,6,1739731932,"~/flaskapp/templates/profile.html"
--'  1  3636  ~/flaskapp/templates/profile.html
-|4,39,1,3636,1739731876,"~/flaskapp/templates/profile.html"
--'  123  6  ~/flaskapp/templates/register.html
-|4,39,123,6,1739731639,"~/flaskapp/templates/register.html"
--'  123  6  ~/flaskapp/templates/register.html
-|4,39,123,6,1739731639,"~/flaskapp/templates/register.html"
--'  1  0  ~/flaskapp/templates/register.html
-|4,39,1,0,1739731457,"~/flaskapp/templates/register.html"
--'  1  0  ~/flaskapp/templates/register.html
-|4,39,1,0,1739731457,"~/flaskapp/templates/register.html"
--'  123  6  ~/flaskapp/templates/profile.html
-|4,39,123,6,1739731445,"~/flaskapp/templates/profile.html"
--'  123  6  ~/flaskapp/templates/profile.html
-|4,39,123,6,1739731445,"~/flaskapp/templates/profile.html"
--'  1  0  ~/flaskapp/templates/profile.html
-|4,39,1,0,1739731392,"~/flaskapp/templates/profile.html"
--'  1  0  ~/flaskapp/templates/profile.html
-|4,39,1,0,1739731392,"~/flaskapp/templates/profile.html"
--'  95  10  ~/flaskapp/flaskapp.py
-|4,39,95,10,1739731362,"~/flaskapp/flaskapp.py"
--'  95  10  ~/flaskapp/flaskapp.py
-|4,39,95,10,1739731362,"~/flaskapp/flaskapp.py"
--'  95  10  ~/flaskapp/flaskapp.py
-|4,39,95,10,1739731362,"~/flaskapp/flaskapp.py"
--'  95  10  ~/flaskapp/flaskapp.py
-|4,39,95,10,1739731362,"~/flaskapp/flaskapp.py"
--'  95  10  ~/flaskapp/flaskapp.py
-|4,39,95,10,1739731362,"~/flaskapp/flaskapp.py"
--'  95  10  ~/flaskapp/flaskapp.py
-|4,39,95,10,1739731362,"~/flaskapp/flaskapp.py"
--'  95  10  ~/flaskapp/flaskapp.py
-|4,39,95,10,1739731362,"~/flaskapp/flaskapp.py"
--'  95  10  ~/flaskapp/flaskapp.py
-|4,39,95,10,1739731362,"~/flaskapp/flaskapp.py"
--'  99  10  ~/flaskapp/flaskapp.py
-|4,39,99,10,1739731357,"~/flaskapp/flaskapp.py"
--'  99  10  ~/flaskapp/flaskapp.py
-|4,39,99,10,1739731357,"~/flaskapp/flaskapp.py"
--'  99  10  ~/flaskapp/flaskapp.py
-|4,39,99,10,1739731357,"~/flaskapp/flaskapp.py"
--'  99  10  ~/flaskapp/flaskapp.py
-|4,39,99,10,1739731357,"~/flaskapp/flaskapp.py"
--'  99  10  ~/flaskapp/flaskapp.py
-|4,39,99,10,1739731357,"~/flaskapp/flaskapp.py"
--'  99  10  ~/flaskapp/flaskapp.py
-|4,39,99,10,1739731357,"~/flaskapp/flaskapp.py"
--'  99  10  ~/flaskapp/flaskapp.py
-|4,39,99,10,1739731357,"~/flaskapp/flaskapp.py"
--'  99  10  ~/flaskapp/flaskapp.py
-|4,39,99,10,1739731357,"~/flaskapp/flaskapp.py"
--'  99  10  ~/flaskapp/flaskapp.py
-|4,39,99,10,1739731350,"~/flaskapp/flaskapp.py"
--'  99  10  ~/flaskapp/flaskapp.py
-|4,39,99,10,1739731350,"~/flaskapp/flaskapp.py"
--'  99  10  ~/flaskapp/flaskapp.py
-|4,39,99,10,1739731350,"~/flaskapp/flaskapp.py"
--'  99  10  ~/flaskapp/flaskapp.py
-|4,39,99,10,1739731350,"~/flaskapp/flaskapp.py"
--'  99  10  ~/flaskapp/flaskapp.py
-|4,39,99,10,1739731350,"~/flaskapp/flaskapp.py"
--'  99  10  ~/flaskapp/flaskapp.py
-|4,39,99,10,1739731350,"~/flaskapp/flaskapp.py"
--'  99  10  ~/flaskapp/flaskapp.py
-|4,39,99,10,1739731350,"~/flaskapp/flaskapp.py"
--'  99  10  ~/flaskapp/flaskapp.py
-|4,39,99,10,1739731350,"~/flaskapp/flaskapp.py"
--'  1  0  ~/flaskapp/flaskapp.py
-|4,39,1,0,1739731039,"~/flaskapp/flaskapp.py"
--'  1  0  ~/flaskapp/flaskapp.py
-|4,39,1,0,1739731039,"~/flaskapp/flaskapp.py"
--'  1  0  ~/flaskapp/flaskapp.py
-|4,39,1,0,1739731039,"~/flaskapp/flaskapp.py"
--'  1  0  ~/flaskapp/flaskapp.py
-|4,39,1,0,1739731039,"~/flaskapp/flaskapp.py"
--'  1  0  ~/flaskapp/flaskapp.py
-|4,39,1,0,1739731039,"~/flaskapp/flaskapp.py"
--'  1  0  ~/flaskapp/flaskapp.py
-|4,39,1,0,1739731039,"~/flaskapp/flaskapp.py"
--'  1  0  ~/flaskapp/flaskapp.py
-|4,39,1,0,1739731039,"~/flaskapp/flaskapp.py"
--'  1  0  ~/flaskapp/flaskapp.py
-|4,39,1,0,1739731039,"~/flaskapp/flaskapp.py"
--'  1  0  ~/flaskapp/flaskapp.py
-|4,39,1,0,1739731039,"~/flaskapp/flaskapp.py"
--'  1  0  ~/flaskapp/flaskapp.py
-|4,39,1,0,1739731039,"~/flaskapp/flaskapp.py"
--'  1  0  ~/flaskapp/flaskapp.py
-|4,39,1,0,1739731039,"~/flaskapp/flaskapp.py"
--'  1  0  ~/flaskapp/flaskapp.py
-|4,39,1,0,1739731039,"~/flaskapp/flaskapp.py"
--'  1  0  ~/flaskapp/flaskapp.py
-|4,39,1,0,1739731039,"~/flaskapp/flaskapp.py"
--'  1  0  ~/flaskapp/flaskapp.py
-|4,39,1,0,1739731039,"~/flaskapp/flaskapp.py"
--'  1  0  ~/flaskapp/flaskapp.py
-|4,39,1,0,1739731039,"~/flaskapp/flaskapp.py"
--'  1  0  ~/flaskapp/flaskapp.py
-|4,39,1,0,1739731039,"~/flaskapp/flaskapp.py"
--'  1  0  ~/flaskapp.py
-|4,39,1,0,1739731001,"~/flaskapp.py"
--'  1  0  ~/flaskapp.py
-|4,39,1,0,1739731001,"~/flaskapp.py"
--'  1  0  ~/flaskapp.py
-|4,39,1,0,1739731001,"~/flaskapp.py"
--'  1  0  ~/flaskapp.py
-|4,39,1,0,1739731001,"~/flaskapp.py"
--'  1  0  ~/flaskapp.py
-|4,39,1,0,1739731001,"~/flaskapp.py"
--'  1  0  ~/flaskapp.py
-|4,39,1,0,1739731001,"~/flaskapp.py"
--'  1  0  ~/flaskapp.py
-|4,39,1,0,1739731001,"~/flaskapp.py"
--'  1  0  ~/flaskapp.py
-|4,39,1,0,1739731001,"~/flaskapp.py"
--'  1  0  ~/flaskapp.py
-|4,39,1,0,1739731001,"~/flaskapp.py"
--'  1  0  ~/flaskapp.py
-|4,39,1,0,1739731001,"~/flaskapp.py"
--'  1  0  ~/flaskapp.py
-|4,39,1,0,1739731001,"~/flaskapp.py"
 
 # History of marks within files (newest to oldest):
 
+> ~/flaskapp/templates/register.html
+	*	1739735785	0
+	"	141	6
+	^	141	7
+	.	141	7
+	+	1	3630
+	+	141	7
+
 > ~/flaskapp/templates/profile.html
-	*	1739731649	0
-	"	9466	0
-	^	9466	0
-	.	9466	0
+	*	1739735614	0
+	"	116	6
+	^	116	7
+	.	116	6
 	+	1	6
 	+	1	3630
-	+	9490	0
+	+	9529	0
 	+	1	3613
-	+	2	3615
-	+	9489	8
-	+	9466	0
-
-> ~/flaskapp/templates/register.html
-	*	1739731637	0
-	"	123	6
-	^	123	7
-	.	123	6
-	+	123	6
+	+	1	3630
+	+	9528	8
+	+	9505	0
+	+	1	810
+	+	1	779
+	+	1	754
+	+	1	692
+	+	1	676
+	+	116	6
 
 > ~/flaskapp/flaskapp.py
 	*	1739731360	0
